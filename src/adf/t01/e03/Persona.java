@@ -1,4 +1,4 @@
-package adf.t01e03;
+package adf.t01.e03;
 
 public class Persona {
     private final String dni;
